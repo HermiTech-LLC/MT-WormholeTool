@@ -1,5 +1,7 @@
 # Wormhole Visualization and Optimization Tool
 
+![study](https://github.com/HermiTech-LLC/BHmetrics_WHsim/blob/main/BhWh.PNG)
+__________________________________
 ## Overview
 This tool integrates theoretical physics concepts with interactive data visualization and optimization techniques. It's built with Dash for web-based interaction, Plotly for visualization, NumPy for numerical operations, Waitress as a server, and Scikit-Optimize for Bayesian optimization.
 
