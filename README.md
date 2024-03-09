@@ -11,7 +11,9 @@ This tool integrates theoretical physics concepts with interactive data visualiz
 - Parameter Sliders for real-time adjustment
 - Bayesian Optimization for optimal parameters
 - Display of optimization results
-
+________________________________
+![ui](https://github.com/HermiTech-LLC/MT-WormholeTool/blob/main/IMG_7946.jpeg)
+___________________________________
 ## Installation
 To set up the tool, ensure that you have Python 3.6 or later installed on your system. Then install the required dependencies using `pip`:
 ```bash
