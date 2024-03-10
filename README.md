@@ -12,7 +12,7 @@ This tool integrates theoretical physics concepts with interactive data visualiz
 - Bayesian Optimization for optimal parameters
 - Display of optimization results
 
-  *note: the feasability function should be improved for accurate comparisons to an accurate model of logical physics fitting to, extending or proposing an empirically validated model of physics.*
+  *note: the feasability function should be improved for a more robust and accurate comparison to an accurate model of logical physics fitting to, extending or proposing an empirically validated model of physics.*
 ________________________________
 ![ui](https://github.com/HermiTech-LLC/MT-WormholeTool/blob/main/IMG_7946.jpeg)
 ___________________________________
